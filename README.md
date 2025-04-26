@@ -132,7 +132,7 @@ qwnts-mc-translate</br>
 
 Я буду радий вашій допомозі у покращенні якості українських перекладів!
 
-**Зроблено з ❤️ для української спільноти Minecraft!**<br>
+**Зроблено з ❤️ для української спільноти Minecraft!**<br><br>
 [![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/United24-black?style=for-the-badge&link=https://u24.gov.ua/)](https://u24.gov.ua/)
 [![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/Hospitallers-red?style=for-the-badge&link=https://www.hospitallers.life/needs-hospitallers)](https://www.hospitallers.life/needs-hospitallers)
 [![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/Charity_foundation_of_Serhiy_Prytula-white?style=for-the-badge&link=https://prytulafoundation.org/en)](https://prytulafoundation.org/en)

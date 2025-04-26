@@ -33,7 +33,7 @@ qwnts-mc-translate</br>
 1. Завантажте ZIP архів цього репозиторію.<br>
 1.1. Переглянути куди натискати можна [тут](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files)
 2. Розархівуйте його у зручному для вас місці.
-3.  Перемістіть файл qwnts-mc-translate-main до папки з ресурсами (resourcepacks) вашого Minecraft. Зазвичай шлях виглядає так:
+3.  Перемістіть файл qwnts-mc-translate до папки з ресурсами (resourcepacks) вашого Minecraft. Зазвичай шлях виглядає так:
     * `%appdata%\.minecraft\resourcepacks` (для Windows)
     * `~/Library/Application Support/minecraft/resourcepacks` (для macOS)
     * `~/.minecraft/resourcepacks` (для Linux)

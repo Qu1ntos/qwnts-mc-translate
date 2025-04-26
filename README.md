@@ -19,14 +19,14 @@
 qwnts-mc-translate</br>
 ├── assets</br>
 │ ├── [назва модифікації]</br>
-│ │  └── lang</br>
-│ │    └── uk_ua.json</br>
+│ │   └── lang</br>
+│ │      └── uk_ua.json</br>
 │ ├── [назва модифікації]</br>
-│ │  └── lang</br>
-│ │    └── uk_ua.json</br>
+│ │   └── lang</br>
+│ │      └── uk_ua.json</br>
 │ ├── [назва модифікації]</br>
-│ │  └── lang</br>
-│ │    └── uk_ua.json</br>
+│ │   └── lang</br>
+│ │      └── uk_ua.json</br>
 
 ## Використання перекладу
 Щоб використовувати ці переклади у вашому Minecraft, виконайте наступні кроки:

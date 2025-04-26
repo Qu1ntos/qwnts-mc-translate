@@ -1,3 +1,4 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)<br>
 # Українські переклади для модів Minecraft
 
 Цей репозиторій містить українські переклади для різних модифікацій fabric для Minecraft версії 1.21.1. Переклад може працювати некоректно на інших модлаунчерах (Forge, NeoForge, Quilt, LiteLoader, Risugami's ML, Rift...) і різних версіях гри. Переклади були згенеровані за допомогою інструментів штучного інтелекту. Основна ідея полягає у тому щоб гравці які не дружать з англійською могли вільно грати у свої улюблені модифікації на своїй рідній мові.

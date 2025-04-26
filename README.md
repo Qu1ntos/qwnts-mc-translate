@@ -14,32 +14,41 @@
 
 Повний текст ліцензії можна знайти у файлі [LICENSE](LICENSE).
 
-## Вміст репозиторію
+## Встановлення українського перекладу для Minecraft
 
-Репозиторій структуровано наступним чином:</br>
-qwnts-mc-translate</br>
-├── assets</br>
-│      ├── [назва модифікації]</br>
-│      │           └── lang</br>
-│      │                 └── uk_ua.json</br>
-│      ├── [назва модифікації]</br>
-│      │           └── lang</br>
-│      │                 └── uk_ua.json</br>
-│      ├── [назва модифікації]</br>
-│      │           └── lang</br>
-│      │                 └── uk_ua.json</br>
+Щоб насолоджуватися Minecraft українською мовою, скористайтеся одним із двох простих способів встановлення перекладу:
 
-## Використання перекладу
-Щоб використовувати ці переклади у вашому Minecraft, виконайте наступні кроки:
-1. Завантажте ZIP архів цього репозиторію.<br>
-1.1. Переглянути куди натискати можна [тут](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files)
-2. Розархівуйте його у зручному для вас місці.
-3.  Перемістіть файл qwnts-mc-translate до папки з ресурсами (resourcepacks) вашого Minecraft. Зазвичай шлях виглядає так:
-    * `%appdata%\.minecraft\resourcepacks` (для Windows)
-    * `~/Library/Application Support/minecraft/resourcepacks` (для macOS)
-    * `~/.minecraft/resourcepacks` (для Linux)
-4.  Запустіть Minecraft, перейдіть до налаштувань ресурспакетів і активуйте завантажений ресурспакет з українським перекладом для потрібного моду.
+**Варіант 1: Завантаження та встановлення архіву**
 
+1.  **Завантажте ZIP-архів репозиторію.**
+    * [Переглянути, куди натискати для завантаження](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files)
+2.  **Розпакуйте завантажений архів** у будь-яке зручне для вас місце на комп'ютері.
+3.  **Перемістіть папку `qwnts-mc-translate`** до папки з ресурспакетами вашого Minecraft. Залежно від вашої операційної системи, шлях до цієї папки наступний:
+    * **Windows:** `%appdata%\.minecraft\resourcepacks`
+    * **macOS:** `~/Library/Application Support/minecraft/resourcepacks`
+    * **Linux:** `~/.minecraft/resourcepacks`
+4.  **Запустіть Minecraft.**
+5.  Перейдіть до розділу **"Налаштування"** (Options) → **"Набори ресурсів..."** (Resource Packs...).
+6.  У списку доступних ресурспакетів знайдіть та **активуйте** завантажений ресурспакет з українським перекладом для потрібного вам моду.
+
+**Варіант 2: Клонування репозиторію за допомогою Git**
+
+1.  Перейдіть до папки з ресурспакетами вашого Minecraft. Залежно від вашої операційної системи, шлях до цієї папки наступний:
+
+    * **Windows:** `%appdata%\.minecraft\resourcepacks`
+    * **macOS:** `~/Library/Application Support/minecraft/resourcepacks`
+    * **Linux:** `~/.minecraft/resourcepacks`
+
+2.  **Переконайтеся, що на вашому комп'ютері встановлено Git.** Якщо ні, ви можете завантажити його з [офіційного сайту Git](https://git-scm.com/).
+
+3.  Відкрийте **термінал** (на macOS та Linux) або **командний рядок** (на Windows) та введіть наступну команду:
+
+    ```bash
+    git clone https://github.com/Qu1ntos/qwnts-mc-translate.git
+    ```
+
+Після виконання цієї команди в папці `resourcepacks` з'явиться папка `qwnts-mc-translate` з файлами перекладу. Далі, як і у Варіанті 1 (кроки 4-6), запустіть Minecraft та активуйте ресурспакет у налаштуваннях.
+ 
 ## Перекладені моди
 <table>
         <thead>

@@ -1,0 +1,73 @@
+{
+	"item.constructionwand.stone_wand": "Кам'яний жезл",
+	"item.constructionwand.iron_wand": "Залізний жезл",
+	"item.constructionwand.diamond_wand": "Діамантовий жезл",
+	"item.constructionwand.infinity_wand": "Нескінченний жезл",
+	"item.constructionwand.core_angel": "Ангельське ядро для жезла",
+	"item.constructionwand.core_destruction": "Ядро руйнування для жезла",
+
+	"constructionwand.tooltip.blocks": "Максимум %d блоків",
+	"constructionwand.tooltip.shift": "Нажміть [SHIFT]",
+	"constructionwand.tooltip.cores": "Ядра жезла:",
+	"constructionwand.tooltip.core_tip": "Поєднайте ядро зі своїм жезлом у сітці крафту.",
+
+	"constructionwand.option.cores": "",
+	"constructionwand.option.cores.constructionwand:default": "Ядро будівництва",
+	"constructionwand.option.cores.constructionwand:default.desc": "Розширюйте свої будівлі на стороні, зверненій до Вас.",
+	"constructionwand.option.cores.constructionwand:core_angel": "§6Ангельське ядро",
+	"constructionwand.option.cores.constructionwand:core_angel.desc": "Розміщує за блоками та у повітрі.",
+	"constructionwand.option.cores.constructionwand:core_destruction": "§cЯдро руйнування",
+	"constructionwand.option.cores.constructionwand:core_destruction.desc": "Знищує блоки на стороні, зверненій до Вас.",
+
+	"constructionwand.option.lock": "Обмеження: ",
+	"constructionwand.option.lock.horizontal": "§aВліво/Вправо",
+	"constructionwand.option.lock.horizontal.desc": "Будувати горизонтальну колону перед основним блоком.",
+	"constructionwand.option.lock.vertical": "§aВверх/Вниз",
+	"constructionwand.option.lock.vertical.desc": "Будувати вертикальну колону перед головним блоком.",
+	"constructionwand.option.lock.northsouth": "§6Північ/Південь",
+	"constructionwand.option.lock.northsouth.desc": "Будувати ряд у Пн/Пд напрямі безпосередньо за основним блоком.",
+	"constructionwand.option.lock.eastwest": "§6Схід/Захід",
+	"constructionwand.option.lock.eastwest.desc": "Будувати ряд у Сх/Зх напрямі безпосередньо за основним блоком.",
+	"constructionwand.option.lock.nolock": "§cНічого",
+	"constructionwand.option.lock.nolock.desc": "Розширювати з будь-якого боку головного блоку.",
+
+	"constructionwand.option.direction": "Напрям: ",
+	"constructionwand.option.direction.target": "§6Ціль",
+	"constructionwand.option.direction.target.desc": "Розміщувати блоки з таким самим напрямком як цільовий блок.",
+	"constructionwand.option.direction.player": "§aГравець",
+	"constructionwand.option.direction.player.desc": "Розміщувати блоки, звернені до гравця.",
+
+	"constructionwand.option.replace": "Заміна: ",
+	"constructionwand.option.replace.yes": "§aТак",
+	"constructionwand.option.replace.yes.desc": "Замінювати деякі блоки як рідини, сніг та високоросла трава.",
+	"constructionwand.option.replace.no": "§cНі",
+	"constructionwand.option.replace.no.desc": "Не замінювати блоки.",
+
+	"constructionwand.option.match": "Збіг: ",
+	"constructionwand.option.match.exact": "§aТочне",
+	"constructionwand.option.match.exact.desc": "Розширювати лише абсолютно однакові блоки.",
+	"constructionwand.option.match.similar": "§6Подібне",
+	"constructionwand.option.match.similar.desc": "Підносити аналогічні блоки (приклад: земля/трава) порівну.",
+	"constructionwand.option.match.any": "§cНіяке",
+	"constructionwand.option.match.any.desc": "Розширяти любий блок.",
+
+	"constructionwand.option.random": "Випадково: ",
+	"constructionwand.option.random.yes": "§aТак",
+	"constructionwand.option.random.yes.desc": "Розміщувати випадкові блоки, які є у Вашій гарячій панелі.",
+	"constructionwand.option.random.no": "§cНі",
+	"constructionwand.option.random.no.desc": "Не розміщувати блоки в випадковому порядку.",
+
+	"constructionwand.description.wand": "%1$s може розміщувати до %2$d блоків збоку від будівлі, зверненого до Вас і його вистачить на %3$s блоків.\n\nУтримуйте %5$s і прокрутіть коліском для зміни обмеження (Горизонтально, Вертикально, Північ/Південь, Схід/Захід, Без обмеження).\n\nВідкрийте екран налаштувань за допомогою %6$s§9+ПКМ§0.\n\n§5§nВІДМІНА§0§r\nУтримуйте §9Присідання+§0%4$s поки дивитесь на блоки, встановлені Вами, вони будуть виділені зеленім контуром. §9Присідання+§0%4$s§9+ПКМ§0 на любий з них відмінить операцію, вернувши Вам всі предмети назад. Якщо використовувати Ядро руйнування, то воно поверне блоки.\n\n§5§nКОНТЕЙНЕР§0§r\nШалкеровые коробки, мішки и безліч контейнерів із інших модів можуть надавати блоки для будівництва в жезл.\n\n§5§nПРІОРИТЕТ ЛІВОЇ РУКИ§0§r\nЯкщо у Вас в лівій руці знаходяться блоки, то вони будуть розміщуватись замість блока, на який Ви дивитесь.",
+	"constructionwand.description.durability.limited": "4на %d блоков",
+	"constructionwand.description.durability.unlimited": "вічно",
+	"constructionwand.description.key.sneak": "Присідання",
+	"constructionwand.description.key.sneak_opt": "Присідання+%s",
+	"constructionwand.description.core": "§5§nВСТАНОВЛЕННЯ§0§r\nПоложіть своє нове ядро разом зі своїм жезлом в сітку крафту для його встановки. Для того, Щоб переключатись між ядрами, утримуйте %s і нажміть ЛКМ по пустому простору з жезлом в руці або використовуйте екран налаштувань.",
+	"constructionwand.description.core_angel": "Ангельськое ядро розміщує блоки на протилежній стороні блоку (або ряду блоків), зверенні до Вас. Максимальна відстань залежить від рівня жезла. Клацніть ПКМ по пустому простору то воно розмістить блок в повітрі. Щоб це зробити, Вам потрібно мати необхідні блоки в лівій руці, щоб розмістити їх.",
+	"constructionwand.description.core_destruction": "Ядро руйнування руйнує блоки (не функціональні блоки), зверені до Вас. Максимальна Кількість блоків залежить від рівня жезла. Зруйновані блоки зникають у пустоту, можно використовувати функцію відміни в випадку допущеної помилки.",
+
+	"stat.constructionwand.use_wand": "Блоки, розміщені за допомогою Жезла",
+
+	"tag.item.constructionwand.cores": "ConstructionWand Cores",
+	"tag.item.constructionwand.wands": "ConstructionWand Wands"
+}

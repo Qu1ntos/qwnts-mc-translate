@@ -1,0 +1,33 @@
+{
+    "item.spawnermod.spawner_key": "Ключ спавнера",
+    "item.spawnermod.iron_golem_spawn_egg": "Яйце виклику залізного ґолема",
+
+    "button.count.default": "Кількість: Звичайна",
+    "button.count.low": "Кількість: Мала",
+    "button.count.high": "Кількість: Велика",
+    "button.count.very_high": "Кількість: Максимальна",
+    "button.count.disabled": "Вимкнено",
+    
+    "button.speed.default": "Швидкість: Звичайна",
+    "button.speed.low": "Швидкість: Повільна",
+    "button.speed.high": "Швидкість: Швидка",
+    "button.speed.very_high": "Швидкість: Максимальна",
+    "button.speed.disabled": "Вимкнено",
+
+    "button.range.default": "Радіус активації:",
+    "button.range.low": "Радіус активації:",
+    "button.range.high": "Радіус активації:",
+    "button.range.very_high": "Радіус активації:",
+    "button.range.disabled": "Вимкнено",
+    "button.range.custom": "Користувацький радіус",
+
+    "button.toggle.enabled": "Спавнер: включений",
+    "button.toggle.disabled": "Спавнер: виключений",
+
+    "button.save": "Застосувати",
+    "button.cancel": "Відмінити",
+
+    "tooltip.spawnermod.spawner_key_disabled": "Ключ спавнера виключений",
+
+    "gui.spawnermod.spawner_config_screen_title": "Конфігурація спавнера"
+}

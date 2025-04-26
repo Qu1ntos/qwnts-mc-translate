@@ -1,0 +1,11 @@
+{
+	"block.uncraftingtable76.uncraftingtable": "Стіл розбору",
+	"category.uncraftingtable76.general": "Загальні",
+	"container.uncraftingtable76.uncrafting": "Стіл розбору",
+	"message.uncraftingtable76.not_enough_xp": "§7[Стіл розбору]   §cНедостатньо досвіду",
+	"option.uncraftingtable76.consume_xp": "Споживати досвід",
+	"option.uncraftingtable76.disable_uncrafting_uu_matter": "Вимкнути розбір UU-Матерії (Tech Reborn)",
+	"option.uncraftingtable76.restore_enchantment_book": "Відновлювати зачаровані книги",
+	"option.uncraftingtable76.uncraft_damaged_item": "Увімкнути розбір пошкодженого предмета",
+	"title.uncraftingtable76.config": "Налаштування столу розбору"
+}

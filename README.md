@@ -62,70 +62,74 @@
             <tr>
                 <td>Artifacts</td>
                 <td><a href="https://modrinth.com/mod/artifacts">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Construction Wand</td>
                 <td><a href="https://modrinth.com/mod/construction-wand">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>EMI</td>
                 <td><a href="https://modrinth.com/mod/emi">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>EMI Enchanting</td>
                 <td><a href="https://modrinth.com/mod/emi-enchanting">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>EMI Loot</td>
                 <td><a href="https://modrinth.com/mod/emi-loot">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>EMI Ores</td>
                 <td><a href="https://modrinth.com/mod/emi-ores">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>EMI professions (EMIP)</td>
                 <td><a href="https://modrinth.com/mod/emi-professions-(emip)">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Enchantment Descriptions</td>
                 <td><a href="https://modrinth.com/mod/enchantment-descriptions">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Infinity Cave</td>
                 <td><a href="https://modrinth.com/datapack/infinity-cave">Посилання</a></td>
-                <td>✅</td>
+                <td>🟧</td>
             </tr>
             <tr>
                 <td>Enhanced Mob Spawners</td>
                 <td><a href="https://modrinth.com/mod/enhanced-mob-spawners">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Storage Drawers</td>
                 <td><a href="https://modrinth.com/mod/storagedrawers">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Traveler's Backpack</td>
                 <td><a href="https://modrinth.com/mod/travelersbackpack">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
             <tr>
                 <td>Simple Uncrafting Table</td>
                 <td><a href="https://modrinth.com/mod/simple-uncrafting-table">Посилання</a></td>
-                <td>✅</td>
+                <td>🟩</td>
             </tr>
         </tbody>
     </table>
+    
+🟩 - Перекладено<br>
+🟧 - В розробці<br>
+🟥 - Заплановано
 
 ## Застереження щодо якості перекладу
 
